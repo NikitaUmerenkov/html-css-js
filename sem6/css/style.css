@@ -1,0 +1,71 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+a, button {
+    all: unset;
+}
+
+.header {
+    margin-top: 40px;
+    margin-bottom: 84px;
+}
+
+.point {
+    margin-top: 11px;
+    margin-bottom: 12px;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+.point_active {
+    margin-top: 11px;
+    margin-bottom: 12px;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #F25822;
+}
+
+.title {
+    font-size: 60px;
+    line-height: 70px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+.text {
+    font-size: 20px;
+    line-height: 23px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+.buttons {
+    padding: 37px 0 162px 2px;
+}
+
+.button {
+    font-size: 15px;
+    line-height: 18px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #AAAAAA;
+    padding: 15px 36px 16px 35px;
+    margin-top: 37px;
+    border-radius: 50px
+}
+.button_active {
+    background: #F25822;
+    box-shadow: 4px 4px 8px 0px #F2582233;
+    color: #FFF;
+}
+
+.footer{
+	padding-top: 97px;
+	padding-bottom: 96px;
+}
